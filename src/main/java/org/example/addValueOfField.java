@@ -127,10 +127,6 @@ public class addValueOfField {
             e.printStackTrace();
         }
     }
-
-    public static void main(String[] args) {
-        new addValueOfField().addAndQuerySolr();
-    }
 }
 
 //public class Main {
